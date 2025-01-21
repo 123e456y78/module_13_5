@@ -7,7 +7,7 @@ from aiogram.fsm.state import StatesGroup, State
 from reply import get_keyboard
 from dotenv import find_dotenv, load_dotenv
 load_dotenv(find_dotenv())
-api = '7314899914:AAHcsc1SyUJccc3bK3jNxYvAkCdAfC8fxas'
+api = '!!!!!!!!!!!!!!!!!!!!'
 bot = Bot(token=api)
 dp = Dispatcher()
 @dp.message(CommandStart())
